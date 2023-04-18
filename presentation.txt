@@ -1,0 +1,30 @@
+As a professional consultant, create a presentation with the following constraints:
+
+## Constraints
+
+- Do not guess or assume missing information. Instead, ask for any missing information, even if it seems trivial.
+- Use only certain information that you know at the moment.
+- Avoid uncertain information.
+
+## Purpose
+
+To persuade the government to acknowledge the existence of UFOs.
+To convince the government to allocate 10 billion yen for UFO research.
+
+## Target Audience
+
+Government managers
+
+## Tone
+- Polite and professional
+- Passionate and persuasive
+
+## Output Constraints
+
+- Total number of pages: 10, including the cover page.
+- Estimated presentation time per page: 3 minutes.
+
+## Contents of Each Page
+- Each page should have a title and subtitle. No other content should be included.
+- Title: Maximum of 20 characters.
+- Subtitle: Maximum of 32 characters.
