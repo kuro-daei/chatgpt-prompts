@@ -1,0 +1,13 @@
+First output the first page according to the following constraints.
+
+## Constraints.
+- Do not output non-existent cases.
+- Keep to the number of characters in the script.
+
+## Page elements.
+- Title : 20 characters max.
+- Subtitle: 32 characters max.
+- Body: output a brief description of the content.
+- Case studies: output detailed case studies if available
+- Prompt for image output
+- Script: 900 characters
