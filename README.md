@@ -1,3 +1,4 @@
 # ChatGPT Promots
 
-- [Presentation](./presentation.txt)
+- [Presentation Index](./presentation-1.txt)
+- [Presentation Pages](./presentation-2.txt)
