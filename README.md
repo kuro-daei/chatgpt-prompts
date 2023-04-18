@@ -1,2 +1,3 @@
-# chatgpt-prompts
-prompts
+# ChatGPT Promots
+
+- [Presentation](./presentation.txt)
